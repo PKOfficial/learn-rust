@@ -19,5 +19,8 @@ I am learning from the following sources:
 6. [Part 3: Scalar Types](src%2Fbin%2Fpart3_scalar_types.rs)
 7. [Part 3: Compound Types](src%2Fbin%2Fpart3_compound_types.rs)
 8. [Part 3: Exercise](src%2Fbin%2Fpart3_exercise_c.rs)
+9. [Part 4: Control Flow](src%2Fbin%2Fpart4_control_flow.rs)
+10. [Part 4: Strings](src%2Fbin%2Fpart4_strings.rs)
+11. [Part 4: Exercise](src%2Fbin%2Fpart4_exercise_d.rs)
 
 ---

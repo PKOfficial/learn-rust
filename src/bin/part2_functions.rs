@@ -10,9 +10,6 @@ fn main() {
     // The return value of the function is the value of the final expression in the block of the body of the function.
     // Shorthand of return: If we don't put a semicolon at the end of the expression, it will be returned.
     // Tail expression: The last expression in a block of code.
-
 }
 
-fn do_stuff() {
-
-}
+fn do_stuff() {}
